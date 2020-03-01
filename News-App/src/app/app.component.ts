@@ -7,7 +7,7 @@ import { NewsService } from './news.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'News-App';
+  title = 'JSF News';
   private articles:Array<any>;
   private sources:Array<any>;
   
